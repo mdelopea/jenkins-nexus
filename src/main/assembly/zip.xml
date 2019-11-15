@@ -9,7 +9,7 @@
     </formats>
     <fileSets>
         <fileSet>
-            <directory>/var/jenkins_home/workspace/prueba</directory>
+            <directory>${project.basedir}/conf</directory>
         </fileSet>
     </fileSets>
     <files>
